@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Pagina di Ale Pi</title>
+    <link>https://ale-pi.github.io/tags/</link>
+    <description>Recent content in Tags on Pagina di Ale Pi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Alessandro Perlo</copyright>
+    <lastBuildDate>Thu, 25 Feb 2021 15:42:34 +0100</lastBuildDate><atom:link href="https://ale-pi.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>pensieri</title>
+      <link>https://ale-pi.github.io/tags/pensieri/</link>
+      <pubDate>Thu, 25 Feb 2021 15:42:34 +0100</pubDate>
+      
+      <guid>https://ale-pi.github.io/tags/pensieri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tecnologia</title>
+      <link>https://ale-pi.github.io/tags/tecnologia/</link>
+      <pubDate>Thu, 25 Feb 2021 15:42:34 +0100</pubDate>
+      
+      <guid>https://ale-pi.github.io/tags/tecnologia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>libri</title>
+      <link>https://ale-pi.github.io/tags/libri/</link>
+      <pubDate>Tue, 26 Jan 2021 15:21:22 +0100</pubDate>
+      
+      <guid>https://ale-pi.github.io/tags/libri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>saggistica</title>
+      <link>https://ale-pi.github.io/tags/saggistica/</link>
+      <pubDate>Tue, 26 Jan 2021 15:21:22 +0100</pubDate>
+      
+      <guid>https://ale-pi.github.io/tags/saggistica/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pensieri on Pagina di Ale Pi</title>
+    <link>https://ale-pi.github.io/tags/pensieri/</link>
+    <description>Recent content in pensieri on Pagina di Ale Pi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Alessandro Perlo</copyright>
+    <lastBuildDate>Thu, 25 Feb 2021 15:42:34 +0100</lastBuildDate><atom:link href="https://ale-pi.github.io/tags/pensieri/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nativi Digitali</title>
+      <link>https://ale-pi.github.io/posts/nativi-digitali/</link>
+      <pubDate>Thu, 25 Feb 2021 15:42:34 +0100</pubDate>
+      
+      <guid>https://ale-pi.github.io/posts/nativi-digitali/</guid>
+      <description>I componenti della tribù Spesso chi come me fa parte della cosiddetta Generazione Z viene incluso in un gruppo non ben definito chiamato Nativi Digitali.</description>
+    </item>
+    
+  </channel>
+</rss>
